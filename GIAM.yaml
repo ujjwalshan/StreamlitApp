@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    ushankar:
+      email: ujjwal.shankar-external@generali-invest.com
+      name: ujjwal.shankar-external@generali-invest.com
+      password: abc # To be replaced with hashed password
+    rbriggs:
+      email: lorenzo.lapiccirella@generali-invest.com
+      name: LorenzolaPiccirella
+      password: def # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - sara.parrino@generali-invest.com
+  - lorenzo.lapiccirella@generali-invest.com
+  - ujjwal.shankar-external@generali-invest.com
